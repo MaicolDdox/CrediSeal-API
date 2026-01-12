@@ -1,36 +1,34 @@
 <p align="center">
-  <a href="https://github.com/MaicolDdox/CrediSeal-API" target="_blank">
+  <a href="https://github.com/TU_USUARIO/crediseal-api" target="_blank">
     <img src="docs/assets/logo.png" width="260" alt="Logo de CrediSeal API">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/maicol-duvan-gasca-rodas-4483923a4/?trk=public-profile-join-page" target="_blank" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="28" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/maicolddox_?utm_source=qr&igsh=cTV6enRlMW05bjY3" target="_blank" title="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="28" alt="Instagram">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/TU_USUARIO" target="_blank" title="GitHub">
+    <img src="https://cdn.simpleicons.org/github/181717" height="28" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discordapp.com/users/1425631850453270543" target="_blank" title="Discord">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="28" alt="Discord">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:maicolindustriascode@gmail.com" target="_blank" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="28" alt="Email">
   </a>
 </p>
 
 <p align="center">
   <strong>CrediSeal API</strong><br>
   API REST para emitir, verificar y gestionar credenciales digitales verificables con enfoque antifraude.
-</p>
-
-<p align="center">
-  <!-- Badges (ajusta TU_USUARIO, nombre del repo y el workflow) -->
-  <a href="https://github.com/TU_USUARIO/crediseal-api/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/TU_USUARIO/crediseal-api/tests.yml?label=tests" alt="Estado de Tests">
-  </a>
-  <a href="https://github.com/TU_USUARIO/crediseal-api">
-    <img src="https://img.shields.io/github/last-commit/TU_USUARIO/crediseal-api" alt="Último Commit">
-  </a>
-  <a href="https://github.com/TU_USUARIO/crediseal-api">
-    <img src="https://img.shields.io/github/languages/top/TU_USUARIO/crediseal-api" alt="Lenguaje Principal">
-  </a>
-  <a href="https://github.com/TU_USUARIO/crediseal-api/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/TU_USUARIO/crediseal-api" alt="Licencia">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/maicol-duvan-gasca-rodas-4483923a4/?trk=public-profile-join-page" target="_blank">LinkedIn</a> •
-  <a href="https://www.instagram.com/maicolddox_?utm_source=qr&igsh=cTV6enRlMW05bjY3" target="_blank">Instagram</a> •
-  <a href="https://github.com/TU_USUARIO" target="_blank">GitHub</a> •
-  <a href="https://discordapp.com/users/1425631850453270543" target="_blank">Discord</a> •
-  <a href="mailto:maicolindustriascode@gmail.com" target="_blank">Email</a>
 </p>
 
 ---
@@ -149,7 +147,6 @@ Reglas clave:
 - PHP >= 8.2 (recomendado para Laravel 12)
 - Composer
 - MySQL / PostgreSQL
-- (Opcional) Node.js si agregas tooling frontend
 
 ### Pasos
 1. Clona el repositorio
@@ -157,31 +154,6 @@ Reglas clave:
 3. Configura `.env`
 4. Ejecuta migraciones (y seeders si aplican)
 5. Levanta el servidor y prueba con Postman/Insomnia
-
-> Flujo recomendado de prueba: register → login → issue credential → public verify → revoke.
-
----
-
-## Documentación
-- Colección Postman (recomendado): `docs/postman/crediseal.postman_collection.json`
-- OpenAPI (opcional): `docs/openapi.yaml`
-
----
-
-## Roadmap (opcional)
-- [ ] OpenAPI + Swagger UI
-- [ ] Exportación PDF de credenciales
-- [ ] Webhooks (credencial emitida/revocada)
-- [ ] Aprobación de plantillas por Admin
-- [ ] Multi-tenant con aislamiento fuerte por organización
-
----
-
-## Contribuciones
-Si deseas contribuir:
-1. Haz un fork del repositorio
-2. Crea una rama feature
-3. Abre un Pull Request con una descripción clara
 
 ---
 

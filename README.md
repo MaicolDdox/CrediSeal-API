@@ -15,7 +15,7 @@
     <span style="margin-left:6px; vertical-align:middle;">Instagram</span>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/TU_USUARIO" target="_blank" title="GitHub" style="text-decoration:none;">
+  <a href="https://github.com/MaicolDdox" target="_blank" title="GitHub" style="text-decoration:none;">
     <img src="docs/assets/social/github.png" height="22" alt="GitHub" style="vertical-align:middle;">
     <span style="margin-left:6px; vertical-align:middle;">GitHub</span>
   </a>

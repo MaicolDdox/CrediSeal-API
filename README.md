@@ -35,6 +35,7 @@
 <p align="center">
   <strong>CrediSeal API</strong><br>
   API REST para emitir, verificar y gestionar credenciales digitales verificables con enfoque antifraude.
+  (TODAVIA ESTA EN DESARROLLO - DISPONIBLE PROXIMAMENTE)
 </p>
 
 ---

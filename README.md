@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/TU_USUARIO/crediseal-api" target="_blank">
+  <a href="https://github.com/MaicolDdox/CrediSeal-API?tab=readme-ov-file target="_blank">
     <img src="docs/assets/logo.png" width="260" alt="Logo de CrediSeal API">
   </a>
 </p>
